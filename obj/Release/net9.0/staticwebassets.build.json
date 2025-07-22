@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "a6HF678HxTGFY0ZIiylg4q2UIrK+WKLNTFA4vEmAzQQ=",
+  "Source": "TraceChecklyPoC",
+  "BasePath": "_content/TraceChecklyPoC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

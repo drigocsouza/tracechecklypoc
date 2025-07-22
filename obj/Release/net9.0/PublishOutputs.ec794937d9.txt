@@ -1,0 +1,16 @@
+C:\dev\poc-opentelemetry\TraceChecklyPoC\bin\Release\net9.0\publish\TraceChecklyPoC.exe
+C:\dev\poc-opentelemetry\TraceChecklyPoC\bin\Release\net9.0\publish\appsettings.Development.json
+C:\dev\poc-opentelemetry\TraceChecklyPoC\bin\Release\net9.0\publish\appsettings.json
+C:\dev\poc-opentelemetry\TraceChecklyPoC\bin\Release\net9.0\publish\TraceChecklyPoC.dll
+C:\dev\poc-opentelemetry\TraceChecklyPoC\bin\Release\net9.0\publish\TraceChecklyPoC.deps.json
+C:\dev\poc-opentelemetry\TraceChecklyPoC\bin\Release\net9.0\publish\TraceChecklyPoC.runtimeconfig.json
+C:\dev\poc-opentelemetry\TraceChecklyPoC\bin\Release\net9.0\publish\TraceChecklyPoC.pdb
+C:\dev\poc-opentelemetry\TraceChecklyPoC\bin\Release\net9.0\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\dev\poc-opentelemetry\TraceChecklyPoC\bin\Release\net9.0\publish\Microsoft.OpenApi.dll
+C:\dev\poc-opentelemetry\TraceChecklyPoC\bin\Release\net9.0\publish\OpenTelemetry.dll
+C:\dev\poc-opentelemetry\TraceChecklyPoC\bin\Release\net9.0\publish\OpenTelemetry.Api.dll
+C:\dev\poc-opentelemetry\TraceChecklyPoC\bin\Release\net9.0\publish\OpenTelemetry.Api.ProviderBuilderExtensions.dll
+C:\dev\poc-opentelemetry\TraceChecklyPoC\bin\Release\net9.0\publish\OpenTelemetry.Exporter.Console.dll
+C:\dev\poc-opentelemetry\TraceChecklyPoC\bin\Release\net9.0\publish\OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+C:\dev\poc-opentelemetry\TraceChecklyPoC\bin\Release\net9.0\publish\OpenTelemetry.Extensions.Hosting.dll
+C:\dev\poc-opentelemetry\TraceChecklyPoC\bin\Release\net9.0\publish\OpenTelemetry.Instrumentation.AspNetCore.dll

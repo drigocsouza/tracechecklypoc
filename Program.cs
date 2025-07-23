@@ -22,9 +22,9 @@ builder.Services.AddOpenTelemetry()
             .AddProcessor<ChecklyTraceStateProcessor>()
             .AddOtlpExporter(otlpOptions =>
             {
-                otlpOptions.Endpoint = new Uri("https://otel-collector.livelywater-b0572b59.eastus.azurecontainerapps.io/v1/traces");
-                otlpOptions.Headers = "";
-                otlpOptions.Protocol = OpenTelemetry.Exporter.OtlpExportProtocol.HttpProtobuf;
+                otlpOptions.Endpoint = new Uri("http://otel-collector.livelywater-b0572b59.eastus.azurecontainerapps.io:4317");
+                otlpOptions.Headers = "authorization=ot_461f7f9bcfed4e809597df214c522db4";
+                otlpOptions.Protocol = OpenTelemetry.Exporter.OtlpExportProtocol.Grpc;
             })
             .AddConsoleExporter();
     });

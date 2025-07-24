@@ -1,5 +1,5 @@
 {
     "appService.preDeployTask": "publish-release",
     "appService.deploySubpath": "bin\\Release\\net9.0\\publish",
-    "appService.defaultWebAppToDeploy": ""
+    "appService.defaultWebAppToDeploy": "/subscriptions/729c5dc9-1224-49f0-ab8b-81a12ee8fc9e/resourceGroups/poc-opentelemetry-rg/providers/Microsoft.Web/sites/poc-opentelemetry"
 }

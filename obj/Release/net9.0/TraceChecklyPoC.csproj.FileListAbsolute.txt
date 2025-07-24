@@ -38,3 +38,4 @@ C:\dev\poc-opentelemetry\TraceChecklyPoC\obj\Release\net9.0\refint\TraceChecklyP
 C:\dev\poc-opentelemetry\TraceChecklyPoC\obj\Release\net9.0\TraceChecklyPoC.pdb
 C:\dev\poc-opentelemetry\TraceChecklyPoC\obj\Release\net9.0\TraceChecklyPoC.genruntimeconfig.cache
 C:\dev\poc-opentelemetry\TraceChecklyPoC\obj\Release\net9.0\ref\TraceChecklyPoC.dll
+C:\dev\poc-opentelemetry\TraceChecklyPoC\obj\Release\net9.0\TraceChecklyPoC.sourcelink.json
